@@ -37,10 +37,12 @@ Soy un DBA en SQL Server apasionado por la gestión y optimización de bases de 
       <br>Python
     </td>
     <td align="center" width="96">
-      <a href="https://www.atlassian.com/software/jira">
-        <img src="https://wac-cdn.atlassian.com/dam/jcr:43ffb2dd-7077-4bb5-978d-9cbe57d0ff88/jira.svg?cdnVersion=493" width="48" height="48" alt="Jira" />
-      </a>
-      <br>Jira
+  <a href="https://www.atlassian.com/software/jira">
+    <img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" width="48" height="48" alt="Jira" />
+  </a>
+  <br>Jira
+</td>
+
     </td>
     <td align="center" width="96">
       <a href="https://www.postman.com/">
