@@ -21,6 +21,7 @@ Soy un DBA en SQL Server apasionado por la gestión y optimización de bases de 
 <h1 align="center"><b>Habilidades y tecnologias</b></h1>
 
 
+
 <table>
   <tr>
     <td align="center" width="96">
@@ -61,9 +62,9 @@ Soy un DBA en SQL Server apasionado por la gestión y optimización de bases de 
     </td>
     <td align="center" width="96">
       <a href="https://www.microsoft.com/en-us/sql-server/sql-server-2019">
-        <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="48" height="48" alt="SQL Server" />
+        <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="48" height="48" alt="SQL" />
       </a>
-      <br>SQL Server
+      <br>SQL
     </td>
   </tr>
   <tr>
@@ -85,6 +86,11 @@ Soy un DBA en SQL Server apasionado por la gestión y optimización de bases de 
       </a>
       <br>Linux
     </td>
-  
+    <td align="center" width="96">
+      <a href="https://www.docker.com/">
+        <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="48" height="48" alt="Docker" />
+      </a>
+      <br>Docker
+    </td>
   </tr>
 </table>
