@@ -15,3 +15,4 @@
 </p>
 
 
+Soy un DBA en SQL Server apasionado por la gestión y optimización de bases de datos, con un interés reciente en el campo de QA Engineering. Actualmente estoy expandiendo mis habilidades para asegurar la calidad de software y sistemas, lo que me permite tener una perspectiva integral de los proyectos en los que participo.
