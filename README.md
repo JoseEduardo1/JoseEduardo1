@@ -22,6 +22,8 @@ Soy un DBA en SQL Server apasionado por la gestión y optimización de bases de 
 
 # Habilidades y Tecnologías
 
+# Habilidades y Tecnologías
+
 <table>
   <tr>
     <td align="center" width="96">
@@ -37,16 +39,14 @@ Soy un DBA en SQL Server apasionado por la gestión y optimización de bases de 
       <br>Python
     </td>
     <td align="center" width="96">
-  <a href="https://www.atlassian.com/software/jira">
-    <img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" width="48" height="48" alt="Jira" />
-  </a>
-  <br>Jira
-</td>
-
+      <a href="https://www.atlassian.com/software/jira">
+        <img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" width="48" height="48" alt="Jira" />
+      </a>
+      <br>Jira
     </td>
     <td align="center" width="96">
       <a href="https://www.postman.com/">
-        <img src="https://assets.getpostman.com/common-share/postman-logo-horizontal-white.svg" width="48" height="48" alt="Postman" />
+        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="48" height="48" alt="Postman" />
       </a>
       <br>Postman
     </td>
@@ -67,6 +67,32 @@ Soy un DBA en SQL Server apasionado por la gestión y optimización de bases de 
         <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="48" height="48" alt="SQL Server" />
       </a>
       <br>SQL Server
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <a href="https://git-scm.com/">
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="48" height="48" alt="Git" />
+      </a>
+      <br>Git
+    </td>
+    <td align="center" width="96">
+      <a href="https://github.com/">
+        <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="48" height="48" alt="GitHub" />
+      </a>
+      <br>GitHub
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.linux.org/">
+        <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" width="48" height="48" alt="Linux" />
+      </a>
+      <br>Linux
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.docker.com/">
+        <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="48" height="48" alt="Docker" />
+      </a>
+      <br>Docker
     </td>
   </tr>
 </table>
