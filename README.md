@@ -88,11 +88,6 @@ Soy un DBA en SQL Server apasionado por la gestión y optimización de bases de 
       </a>
       <br>Linux
     </td>
-    <td align="center" width="96">
-      <a href="https://www.docker.com/">
-        <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="48" height="48" alt="Docker" />
-      </a>
-      <br>Docker
-    </td>
+  
   </tr>
 </table>
