@@ -61,8 +61,8 @@ Soy un DBA en SQL Server apasionado por la gestión y optimización de bases de 
       <br>PyTest
     </td>
     <td align="center" width="96">
-      <a href="https://www.microsoft.com/en-us/sql-server/sql-server-2019">
-        <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="48" height="48" alt="SQL" />
+      <a href="https://www.w3.org/SQL/">
+        <img src="https://www.svgrepo.com/show/255832/sql.svg" width="48" height="48" alt="SQL" />
       </a>
       <br>SQL
     </td>
