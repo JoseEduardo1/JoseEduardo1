@@ -16,3 +16,53 @@
 
 
 Soy un DBA en SQL Server apasionado por la gestión y optimización de bases de datos, con un interés reciente en el campo de QA Engineering. Actualmente estoy expandiendo mis habilidades para asegurar la calidad de software y sistemas, lo que me permite tener una perspectiva integral de los proyectos en los que participo.
+
+
+# Habilidades y Tecnologías
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="https://www.selenium.dev/">
+        <img src="https://www.selenium.dev/images/selenium_logo_square_green.png" width="48" height="48" alt="Selenium" />
+      </a>
+      <br>Selenium
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.python.org/">
+        <img src="https://www.python.org/static/community_logos/python-logo-master-v3-TM.png" width="48" height="48" alt="Python" />
+      </a>
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.atlassian.com/software/jira">
+        <img src="https://wac-cdn.atlassian.com/dam/jcr:43ffb2dd-7077-4bb5-978d-9cbe57d0ff88/jira.svg" width="48" height="48" alt="Jira" />
+      </a>
+      <br>Jira
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.postman.com/">
+        <img src="https://www.postman.com/assets/logos/postman-logo-stacked.svg" width="48" height="48" alt="Postman" />
+      </a>
+      <br>Postman
+    </td>
+    <td align="center" width="96">
+      <a href="https://swagger.io/">
+        <img src="https://static1.smartbear.co/swagger/media/assets/images/swagger_logo.svg" width="48" height="48" alt="Swagger" />
+      </a>
+      <br>Swagger
+    </td>
+    <td align="center" width="96">
+      <a href="https://docs.pytest.org/">
+        <img src="https://docs.pytest.org/en/stable/_static/pytest1.png" width="48" height="48" alt="PyTest" />
+      </a>
+      <br>PyTest
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.microsoft.com/en-us/sql-server/sql-server-2019">
+        <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="48" height="48" alt="SQL Server" />
+      </a>
+      <br>SQL Server
+    </td>
+  </tr>
+</table>
