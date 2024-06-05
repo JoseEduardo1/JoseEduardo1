@@ -20,9 +20,6 @@ Soy un DBA en SQL Server apasionado por la gestión y optimización de bases de 
 
 <h1 align="center"><b>Habilidades y tecnologias</b></h1>
 
-# Habilidades y Tecnologías
-
-# Habilidades y Tecnologías
 
 <table>
   <tr>
