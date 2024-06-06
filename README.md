@@ -18,6 +18,12 @@
 Soy un DBA en SQL Server apasionado por la gestión y optimización de bases de datos, con un interés reciente en el campo de QA Engineering. Actualmente estoy expandiendo mis habilidades para asegurar la calidad de software y sistemas, lo que me permite tener una perspectiva integral de los proyectos en los que participo.
 
 
+🔭 Estoy culminando mi formación como QA Engineer en el BootCamp TripleTen y estoy emocionado por poner en práctica todo lo aprendido, complementando mi título en Análisis y Programación. 💪
+
+🌱 Me estoy enfocando en el uso de Selenium 📘 y he trabajado en proyectos con SQL y Python, utilizando Pytest y Requests. Además, tengo experiencia con herramientas de pruebas manuales como Jira, Postman y Android Studio. 🧑‍💻
+
+💓 Me fascina el desafío de crear soluciones de automatización y optimizar procesos a través de la programación, ya que la lógica y estructura del código son mis grandes pasiones. 🕵️
+
 <h1 align="center"><b>Habilidades y tecnologias</b></h1>
 
 
