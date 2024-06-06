@@ -94,3 +94,8 @@ Soy un DBA en SQL Server apasionado por la gestión y optimización de bases de 
     </td>
   </tr>
 </table>
+
+
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true)
+
