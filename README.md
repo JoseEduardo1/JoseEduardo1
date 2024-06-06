@@ -101,6 +101,8 @@ Soy un DBA en SQL Server apasionado por la gestión y optimización de bases de 
   </tr>
 </table>
 
+<p>
+  <h4 align="center"><b><i>![Jose's github stats](https://github-readme-stats.vercel.app/api?username=JoseEduardo1&show_icons=true&theme=radical)</i></b></h4>
+</p>
 
 
-![Jose's github stats](https://github-readme-stats.vercel.app/api?username=JoseEduardo1&show_icons=true&theme=radical)
